@@ -1,10 +1,9 @@
-[http://ForTheBadge.com/images/badges/made-with-python.svg]
+![Made with Python](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
 # Python Web Scraping
 This list contains python libraries related to web scraping and data processing
 
 ## Contents
-
 * [Network](#network)
 * [Web Scraping](#web-scraping)
 * [HTML/XML](#htmlxml)
